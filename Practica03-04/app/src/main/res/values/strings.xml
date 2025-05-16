@@ -1,0 +1,9 @@
+<resources>
+    <string name="add_height">Add height</string>
+    <string name="write_height_cm">Write your height in CM:</string>
+    <string name="add_weight">Add weight</string>
+    <string name="write_weight_kg">Write your weight in KG:</string>
+    <string name="calc_imc">Calculate imc</string>
+    <string name="result_message">Su IMC es de %d</string>
+    <string name="error_message">Ha ocurrido un error al querer realizar el cálculo del IMC</string>
+</resources>
