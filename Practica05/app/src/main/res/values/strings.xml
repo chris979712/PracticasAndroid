@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Practica05_VasquezZapataChristopher</string>
+    <string name="book_title_label">Titulo del libro</string>
+    <string name="book_authors_label">Autor(es)</string>
+    <string name="comment_label">Comentario(s)</string>
+    <string name="rating_label">Calificacion</string>
+    <string name="save_btn">Guardar</string>
 </resources>
